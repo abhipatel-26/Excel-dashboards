@@ -10,5 +10,13 @@
    
    4.Averege rating : The avg rating givven by customer
 
-  
+  # process
+
+  . verify data for missing values and anomalies and sort out them.
+
+  . make sure the data is consistent and clean with respect to data type , data format and values used.
+
+  .created pivot tables according to the questions asked.
+
+  .merged all pivot tables into one dashboard and apply slicer to make dynamic.
  
