@@ -19,4 +19,9 @@
   .created pivot tables according to the questions asked.
 
   .merged all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  # DATASET
+It is excel file it contains all all data , pivot tables and charts.
+
+. C:\Users\katak\Downloads\BlinkIT Grocery Data Excel 1.xlsx
  
